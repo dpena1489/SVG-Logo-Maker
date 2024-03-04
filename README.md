@@ -47,3 +47,7 @@
   GitHub: <a href="https://github.com/dpena1489"> dpena1489</a>
 
   ## Walk-through video 
+  
+
+https://github.com/dpena1489/SVG-Logo-Maker/assets/150938385/8e295d35-f46a-4428-83c2-13db1890e1dd
+
